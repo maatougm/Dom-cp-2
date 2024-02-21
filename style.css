@@ -1,0 +1,21 @@
+.container{
+  margin: auto;
+  width: 50%;
+  
+  padding: 10px;
+  text-align: center;
+    
+}
+#color-box{
+    margin-right: 20%;
+    margin-left: 20%;
+    padding: 15%;
+}
+#change-color-btn {
+    margin: 0;
+    position: absolute;
+    top: 50%;
+    -ms-transform: translateY(-50%);
+    transform: translateY(-50%);
+    color: #000;
+}
